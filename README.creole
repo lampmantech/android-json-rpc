@@ -1,0 +1,8 @@
+
+Originally exported from 
+https://android-json-rpc.googlecode.com/svn/trunk/android-json-rpc/
+now
+https://code.google.com/archive/p/android-json-rpc/
+at revision 65, and forked from
+https://github.com/lampmantech/android-json-rpc
+

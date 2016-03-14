@@ -1,0 +1,148 @@
+commit eb1919093d514553bd64f24ad5626c35812e4bb4
+Date:   Sun Aug 11 20:48:30 2013 +0000
+
+    New Jso RPC implementation based on Google Volley Library
+
+commit 4b61a28c5cdba9a992a6286db08549da465c3c99
+Date:   Sun Aug 4 16:39:25 2013 +0000
+
+    Adding Volley and starting the new library
+
+commit e8c47e5b115d66d288d646101b9d222dbcc29cb2
+Date:   Fri Jul 13 13:57:27 2012 +0000
+
+    Adding JSON debugging possibility
+
+commit 3a2519c5f2fb1976834a25983d0010ea7487207a
+Date:   Fri Jul 13 13:56:46 2012 +0000
+
+commit e22e464c24e0cb3ae509cfd2828acabd74f7fce4
+Date:   Fri Jul 13 13:46:51 2012 +0000
+
+    Adding JSON debugging possibility
+
+commit 4a9b64d458ad36a54e6186cf80525a0785067d04
+Date:   Wed Jul 11 15:32:02 2012 +0000
+
+    Forcing default encoding to UTF-8 in JSONRPCClient.java
+
+commit 41c11de5643b6b9cea5a8cd36d7c513a40306eed
+Date:   Fri Jun 29 19:33:19 2012 +0000
+
+commit 7806215f6fe81f92fd4500e125b73668157a07ae
+Date:   Fri Jun 29 14:26:29 2012 +0000
+
+    Correcting usage of charset in entity
+
+commit e6d82ee551496238c6d4efabd06a6ec818824d13
+Date:   Fri Jun 29 11:02:13 2012 +0000
+
+commit ca3275fe14edcf49ef5f710a4ed8dd47677f0b41
+Date:   Fri Jun 29 11:01:44 2012 +0000
+
+commit 0e6cdcfa5e2e16f4caa0c9312fe83b5f431e6dac
+Date:   Fri Jun 29 10:12:24 2012 +0000
+
+    New Online documentation
+
+commit 4868ee0796a1fbfc8f660dd0e6f27eb56edafa1c
+Date:   Fri Jun 29 10:13:20 2012 +0000
+
+    Modification of Javadoc script for SVN compatibility
+
+commit 5940a3773c381f29f3937b9a7b2714128e9ec6f2
+Date:   Fri Jun 29 10:03:45 2012 +0000
+
+    Adding export script for javadoc
+
+commit e22d6833c217963d4ff4655fd422eccec84743a1
+Date:   Fri Jun 29 10:01:08 2012 +0000
+
+    Adding Downloadable documentation (ZIP format) for version 0.3.3
+
+commit c47d3137e8f32569f39438769295297dda0fb795
+Date:   Fri Jun 29 08:11:36 2012 +0000
+
+    Moving exported JARS to another location
+
+commit 5b564401a652ef019caf4ccbb1e26f7f001eb1b5
+Date:   Fri Jun 29 07:40:20 2012 +0000
+
+    Correcting bug ID: 3
+    
+    Encoding of the HttpEntity
+
+commit 85c39b8e811b4a796fa0af9316a09b30b66209d8
+Date:   Fri Jun 29 07:37:12 2012 +0000
+
+    Moving exported JARS to another location
+
+commit c7ff342996e0da9b860123c7c7067e5af0fdfb88
+Date:   Fri Jun 29 07:36:08 2012 +0000
+
+    Moving exported JARS to another location
+
+commit 998eefcd17e0ec5e3f623b7309dd4c6702d51b89
+Date:   Thu Jun 21 12:56:18 2012 +0000
+
+    New beta versions of the library
+
+commit 6374ffaaef0df9ffd2b3deaf6d6c9c2f8f697f24
+Date:   Thu Jun 21 12:54:20 2012 +0000
+
+    Adding external thread feature
+
+commit a0d232d91a0743048b6ef8af1df4a23b1c5d431d
+Date:   Fri Jun 8 13:21:56 2012 +0000
+
+    Adding debugging handling
+
+commit 8539597142e52c6e060251de45a313d40dcc08d7
+Date:   Tue May 8 01:02:49 2012 +0000
+
+    Adding support for array item in params array with recursive method.
+
+commit 4aca0b42c49bc9691f7324d93a581747dfb37f67
+Date:   Mon May 7 21:42:17 2012 +0000
+
+    Adding new methods
+
+commit 8df8baa68f772190d5eca028c47e238b48c65c44
+Date:   Mon May 7 21:34:03 2012 +0000
+
+    Adding generation of UID
+    Adding support for JSON-RCP 2.0 method call by passing params as named values in a JSONObject
+    Adding support for bad formed response parmeters, trying to convert values from String to int, double, boolean, ...
+
+commit 4e1f5c2bcedb2a719be3b7164aaecbb6d71d2890
+Date:   Fri Feb 5 16:41:20 2010 +0000
+
+    Bugfix: json error handling with json-rpc 2.0
+
+commit fc2ae2acb2ca326b5e3581cffa9b63c10601ff5f
+Date:   Sun Jan 24 18:09:49 2010 +0000
+
+    HTTP 1.0 is now used by default. Lead to major speed improvement when talking with django-json-rpc server.
+
+commit 85f9882810156b3b3b598c3e71334a30a60d30cb
+Date:   Tue Jan 19 18:36:24 2010 +0000
+
+    Added the ability to set timeout values for connection and socket operations.
+
+commit 38068da3e45da056edf58f861e40061613775a09
+Date:   Tue Oct 27 17:29:04 2009 +0000
+
+    Added a few comments
+
+commit 31175fa16baa9696ea79059e083924bec903a436
+Date:   Wed Oct 14 13:57:11 2009 +0000
+
+    Updated javadocs
+
+commit 83f1ae719d2dad4982bb24524f8e033d0ea94665
+Date:   Wed Oct 14 01:32:58 2009 +0000
+
+    Adding a few comments
+
+commit dea760b602543420607767d0c724b53c05022547
+Date:   Wed Oct 14 01:27:49 2009 +0000
